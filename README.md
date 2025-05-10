@@ -7,14 +7,19 @@
 
 ## Work
 
-- 2021.10 - 2023.10 (2 years) : Kaliop
-- 2022.11 - 2023.4 (5 months) : Kuzzle
+- 2023.10 - Today: (Voluntary work)
+  - [Artysee](https://www.artysee.fr): hand-crafted jewelry e-commerce
+  - Book Time: Your bookshelf and reading recommendation app (Early stage - WIP)
+- 2021.10 - 2023.10 (2 years): Kaliop
+  - Neurodiem (Biogen): Sharing research website for neurologists
+  - Geodis: Supply chain monitoring app (POC & MVP from scratch) for Geodis.
+  - SFA Connect: IoT Pump monitoring app (Migrations Flutter v1 -> v3 + features)
 
 ## Education
 
-- 2021 - 2023 : Epitech: European Institute of Technology - Master of Science Big Data (Specialization: artificial intelligence)
-- 2020 - 2021 : Java Spring, Spring Boot, Maven, Jenkins Certified Formation.
-- 2017 - 2020 : Université Montpellier 2 - Computer Science License
+- 2021 - 2023: Epitech: European Institute of Technology - Master of Science Big Data (Specialization: artificial intelligence)
+- 2020 - 2021: Java Spring, Spring Boot, Maven, Jenkins Certified Formation.
+- 2017 - 2020: Université Montpellier 2 - Computer Science License
 
 ## Interests
 

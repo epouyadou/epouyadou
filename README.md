@@ -40,6 +40,6 @@
 ## Currently Learning or Improving
 
 - Natural Language: Japanese (Kanji + Grammar and Reading Lessons)
-- Programming Language: Rust (still learning)
+- Programming Language: Rust (still learning), Shaders
 - Programming Framework: ASP.Net (improving)
 - Game Engine: Unity

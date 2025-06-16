@@ -7,8 +7,9 @@
 
 ## Work
 
-- 2023.10 - Today: (Voluntary work)
-  - [Artysee](https://www.artysee.fr): hand-crafted jewelry e-commerce
+- 2024.9 - Today:
+  - [Artysee](https://www.artysee.fr) : hand-crafted jewelry e-commerce
+- 2023.10 - Today:
   - Book Time: Your bookshelf and reading recommendation app (Early stage - WIP)
 - 2021.10 - 2023.10 (2 years): Kaliop
   - Neurodiem (Biogen): Sharing research website for neurologists

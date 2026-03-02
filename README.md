@@ -1,4 +1,3 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=epouyadou&theme=github_dark_dimmed&show_icons=true&bg_color=2f353d&hide_title=true&hide_rank=true" alt="github stats" />
 <img align="right" src="https://komarev.com/ghpvc/?username=epouyadou" alt="even pouyadou profile total views" />
 
 # Even POUYADOU

@@ -5,6 +5,14 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat)](https://www.linkedin.com/in/pouyadou-even/)
 [![Email](https://img.shields.io/badge/-Email-c14438?style=flat)](mailto:even.pouyadou@gmail.com)
 
+With a background spanning high-stakes logistics, pharmaceutical data processing, and internal SaaS ecosystems, I specialize in developing cross-platform applications that bridge the gap between complex backend architecture and intuitive user experiences. Whether it’s optimizing a workflow to save an hour of labor per day or engineering systems capable of processing thousands of data points per second, I focus on performance and reliability.
+
+Highlights of my work:
+- Productivity: Built a custom inventory ecosystem for artisans that reduced administrative overhead by ~20% per order.
+- Performance: Developed a Rust-based pharmaceutical tool handling 2k+ data records per second with real-time analytical processing.
+- Scale: Co-engineered an internal project management SaaS supporting 2,000+ users and high-concurrency environments (80 req/s).
+- Innovation: Currently founding PAGINAM, a digital publishing ecosystem featuring custom-built EPUB reader and writting tools.
+
 ## Work
 
 - 2025.10 - now:

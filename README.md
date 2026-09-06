@@ -19,7 +19,7 @@ Highlights of my work:
   - Stack: C# (.NET) / Flutter / Rust
 - 2024.1 - now:
   - [Artysee](https://www.artysee.fr) - Order & Inventory Management App : Built a cross-platform solution (Mobile/Tablet/Web) for an artisan to streamline workshop operations [Flutter]. And building a website with Wix CMS.
-  - Pharmaceutical Data Processing Tool: Created a high-performance system for pharmaceutical lab experiments to replace inefficient manual Excel entry. [Rust / Flutter]
+  - Pharmaceutical Data Processing Tool: Created a high-performance system for pharmaceutical lab experiments to replace inefficient manual Excel entry and to gather tools data. [Rust / Flutter]
   - Staff & Schedule Management Tool: Developed a planning system for nursing homes in the Gard region. [Flutter / NestJS]
   - Internal Project Management SaaS: Co-developed a document sharing and task assignment platform for a large team. [Flutter / C#]
 - 2023.10 - Today:
